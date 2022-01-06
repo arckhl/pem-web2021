@@ -1,0 +1,58 @@
+[
+    {
+        "nim":"1234",
+        "nama":"Archibald",
+        "alamat":"Sini",
+        "jurusan":"Teknik Informatika",
+        "MK": [
+            {
+                "mk_kode":"101",
+                "nama_mk":"SISTEM BASIS DATA"
+            },
+            {
+                "mk_kode":"102",
+                "nama_mk":"ALJABAR LINIER"
+            },
+            {
+                "mk_kode":"103",
+                "nama_mk":"ANALISA ALGORITMA"
+            },
+            {
+                "mk_kode":"104",
+                "nama_mk":"KECERDASAN BUATAN"
+            },
+            {
+                "mk_kode":"105",
+                "nama_mk":"JARINGAN KOMPUTER"
+            }
+        ]
+    },
+    {
+        "nim":"1235",
+        "nama":"Wira",
+        "alamat":"Sana",
+        "jurusan":"Sistem Informatika",
+        "MK": [
+            {
+                "mk_kode":"301",
+                "nama_mk":"SISTEM BASIS DATA"
+            },
+            {
+                "mk_kode":"302",
+                "nama_mk":"ALJABAR LINIER"
+            },
+            {
+                "mk_kode":"303",
+                "nama_mk":"ANALISA ALGORITMA"
+            },
+            {
+                "mk_kode":"304",
+                "nama_mk":"KECERDASAN BUATAN"
+            },
+            {
+                "mk_kode":"302",
+                "nama_mk":"JARINGAN KOMPUTER"
+            }
+        ]
+    }
+]
