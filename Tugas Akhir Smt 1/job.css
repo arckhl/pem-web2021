@@ -1,0 +1,10 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: #2980b9;
+}
+h2 {
+    position: absolute;
+    left: 45%;
+    text-align: center;
+}
